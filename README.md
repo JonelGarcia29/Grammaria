@@ -22,7 +22,7 @@ A fun and interactive 2D tutorial application/game built using Unity.
 ---
 
 ## 🎮 How to Play / Run
-[Watched Gameplay/Demo](https://drive.google.com/drive/u/0/folders/1t7MrOXVG3MV_b24E_wOru8LiEYJ7aF1K)
+[Watched Gameplay/Demo](https://drive.google.com/file/d/1UgtMd05tKF922OBVlzdc6TEgNNKxXyvB/view?usp=sharing)
 
 ---
 
@@ -33,6 +33,6 @@ A fun and interactive 2D tutorial application/game built using Unity.
 ---
 
 ### 📱 For Players:
-1. Download the apk file. [Download File](https://drive.google.com/drive/u/0/folders/1mYPAXzBr03xZjUSiNYoVnBGKrr5xefo8)
+1. Download the apk file. [Download File](https://drive.google.com/file/d/1o9W85kSYbPXREU-hXSc_8d5xvOfgRAM8/view?usp=sharing)
 2. Install the downloaded apk.
 3. Enjoy the game!
