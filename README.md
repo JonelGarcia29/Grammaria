@@ -22,7 +22,7 @@ A fun and interactive 2D tutorial application/game built using Unity.
 ---
 
 ## 🎮 How to Play / Run
-
+[Watched Gameplay/Demo](https://drive.google.com/drive/u/0/folders/1t7MrOXVG3MV_b24E_wOru8LiEYJ7aF1K)
 
 ---
 
@@ -33,6 +33,6 @@ A fun and interactive 2D tutorial application/game built using Unity.
 ---
 
 ### 📱 For Players:
-1. Download the apk file. (Software/Installer/Grammaria.apk)
+1. Download the apk file. [Download File](https://drive.google.com/drive/u/0/folders/1mYPAXzBr03xZjUSiNYoVnBGKrr5xefo8)
 2. Install the downloaded apk.
 3. Enjoy the game!
