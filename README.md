@@ -1,36 +1,38 @@
-# 🎮 Game Title - [Short Tagline]
-A fun and interactive [2D/3D/quiz/strategy/etc.] game built using [Unity/JavaScript/Python/etc.].
+# 🎮 Grammaria: An Android Based Tutorial Application in English for Grade 6 Students
+A fun and interactive 2D tutorial application/game built using Unity.
 
-![screenshot](screenshots/gameplay.png) <!-- Replace with your own screenshot path -->
+![screenshot](Screenshots/Home.jpg) <!-- Replace with your own screenshot path -->
 
 ---
 
 ## 🚀 Features
-- 🎯 [Feature 1: e.g. Interactive levels or drag-and-drop quiz]
-- 🧠 [Feature 2: Smart AI opponent / Timed challenges]
-- 🔊 [Feature 3: Sound effects and background music]
-- 📱 [Responsive design / Mobile-friendly (if applicable)]
-
+- ▶️ Tutorial and educational videos for learning.
+- 🧠 Interactive quizzes.
+- 🏆 Leaderboard
+- 📱 Mini games.
 ---
 
 ## 🛠️ Technologies Used
-- **[Language or Engine]**: Unity / JavaScript / Python / etc.
-- **Libraries**: TextMeshPro, Firebase, etc.
-- **Tools**: Photoshop (assets), Git, etc.
-
----
-
-## 📸 Screenshots
-
-| Gameplay | UI |
-|----------|----|
-| ![](screenshots/gameplay1.png) | ![](screenshots/ui.png) |
+- **Game Engine**: Unity
+- **IDE**: Visual Studio
+- **Libraries**: Firebase, json
+- **Language**: C#
+- **Tools**: Gimp, Canva
 
 ---
 
 ## 🎮 How to Play / Run
 
+
+---
+
+## Minimum Device Specifications: 
+- 2 GB of RAM (4 GB recommended). 
+- Android operating system version 7.0 and higher. 
+
+---
+
 ### 📱 For Players:
-1. Download the latest release from [Releases](https://github.com/yourusername/your-repo/releases).
-2. Extract and run `GameName.exe` (for Windows) or open in browser (for web games).
+1. Download the apk file. (Software/Installer/Grammaria.apk)
+2. Install the downloaded apk.
 3. Enjoy the game!
