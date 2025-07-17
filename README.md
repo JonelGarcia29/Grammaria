@@ -1,7 +1,7 @@
 # 🎮 Grammaria: An Android Based Tutorial Application in English for Grade 6 Students
 A fun and interactive 2D tutorial application/game built using Unity.
 
-![screenshot](Screenshots/Home.jpg) <!-- Replace with your own screenshot path -->
+![screenshot](Screenshots/home.jpg) <!-- Replace with your own screenshot path -->
 
 ---
 
